@@ -41,6 +41,6 @@ I'm a full stack developer currently working on [Disvide](https://github.com/Cor
 
 ## 🌟 My Popular Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FSCYT&repo=Disvide)](https://github.com/Cored-Inc/Disvide)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cored-Inc&repo=Disvide)](https://github.com/Cored-Inc/Disvide)
 
 Thanks for stopping by!
