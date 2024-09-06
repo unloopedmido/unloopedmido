@@ -1,4 +1,4 @@
-# Hi there, I'm FSCYT 👋
+# Hi there, I'm UnloopedMido 👋
 
 I'm a full stack developer currently working on [Disvide](https://github.com/Cored-Inc/Disvide), a Discord bot generator that allows you to create a bot by answering a few questions. I'm passionate about building scalable and efficient web applications using modern technologies.
 
@@ -19,7 +19,7 @@ I'm a full stack developer currently working on [Disvide](https://github.com/Cor
 
 ## 🚀 My GitHub Stats
 
-[![FSCYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=FSCYT&show_icons=true&theme=radical)](https://github.com/FSCYT)
+[![UnloopedMido's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnloopedMido&show_icons=true&theme=radical)](https://github.com/UnloopedMido)
 
 ## 🛠️ My Skills
 
@@ -37,7 +37,7 @@ I'm a full stack developer currently working on [Disvide](https://github.com/Cor
 
 ## 📊 My Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FSCYT&layout=compact)](https://github.com/FSCYT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnloopedMido&layout=compact)](https://github.com/UnloopedMido)
 
 ## 🌟 My Popular Repositories
 
