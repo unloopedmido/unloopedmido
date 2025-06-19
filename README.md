@@ -15,3 +15,4 @@ I'm a software engineering undergraduate and the founder of [Cored, Inc.](https:
 
 ### 📬 Contact  
 📧 Email: [cored.developments@gmail.com](mailto:cored.developments@gmail.com)  
+🌐 Website: [thelooped.tech](https://thelooped.tech)
