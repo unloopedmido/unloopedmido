@@ -22,12 +22,6 @@ Discord-first bridge for streaming bot events to external apps and executing bot
 
 ---
 
-### 📊 GitHub Stats
-![Looped's GitHub stats](https://github-readme-stats.vercel.app/api?username=unloopedmido&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unloopedmido&layout=compact&theme=transparent&hide_border=true)
-
----
-
 ### 📬 Connect With Me
 * **Lead Developer at:** [Cored, Inc.](https://github.com/cored-inc)
 * **Portfolio:** [thelooped.tech](https://thelooped.tech)
