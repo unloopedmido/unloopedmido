@@ -1,18 +1,34 @@
-# Hi, I'm Looped 👋  
+# Hi, I'm Looped 👋 
 
-I'm a software engineering undergraduate and the founder of [Cored, Inc.](https://github.com/cored-inc), an up-and-coming group of developers focused on web-based game development.  
+**Software Engineering Undergrad**
 
-### 🚀 What I Do  
-- Full-stack development with modern web technologies.  
-- Building scalable, interactive applications.  
-- Passionate about game development and backend systems.  
+I’m a full-stack developer obsessed with web performance and building interactive experiences. When I'm not building scalable backend systems, I'm likely architecting the future of web-based gaming.
 
-### 🛠️ Tech Stack  
-**Frontend:** Next.js, Astro, Nuxt.js  
-**Backend:** Node.js, Express.js, tRPC, Prisma  
-**Databases:** PostgreSQL, MongoDB  
-**Other:** Git, Docker  
+---
 
-### 📬 Contact  
-📧 Email: [cored.developments@gmail.com](mailto:cored.developments@gmail.com)  
-🌐 Website: [thelooped.tech](https://thelooped.tech)
+### 🛠️ The Tech I Tame
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxt.js) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat-square&logo=trpc) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) |
+
+---
+
+### 🚀 Featured Project: [Shardwire](https://github.com/unloopedmido/shardwire)
+Discord-first bridge for streaming bot events to external apps and executing bot actions over one WebSocket connection.
+
+---
+
+### 📊 GitHub Stats
+![Looped's GitHub stats](https://github-readme-stats.vercel.app/api?username=unloopedmido&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unloopedmido&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### 📬 Connect With Me
+* **Lead Developer at:** [Cored, Inc.](https://github.com/cored-inc)
+* **Portfolio:** [thelooped.tech](https://thelooped.tech)
+* **Email:** [cored.developments@gmail.com](mailto:cored.developments@gmail.com)
