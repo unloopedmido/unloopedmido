@@ -22,6 +22,9 @@ I’m a full-stack developer obsessed with web performance and building interact
 #### [Cuekiyo](https://github.com/unloopedmido/cuekiyo)
 Local-first web app for building anime opening/ending compilation videos. Pick anime titles, approve songs, review clip candidates, and export a finished MP4 — all from your machine.
 
+#### [ContextLevy](https://github.com/unloopedmido/contextlevy)
+PR context-cost checks for AI coding agents — bundle-size checks for agent context.
+
 #### [Shardwire](https://github.com/unloopedmido/shardwire)
 Discord-first bridge for streaming bot events to external apps and executing bot actions over one WebSocket connection.
 
