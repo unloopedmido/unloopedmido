@@ -6,7 +6,7 @@ I’m a full-stack developer obsessed with web performance and building interact
 
 ---
 
-### 🛠️ The Tech I Tame
+### The Tech I Tame
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -17,12 +17,12 @@ I’m a full-stack developer obsessed with web performance and building interact
 
 ---
 
-### 🚀 Featured Project: [Shardwire](https://github.com/unloopedmido/shardwire)
+### Featured Project: [Shardwire](https://github.com/unloopedmido/shardwire)
 Discord-first bridge for streaming bot events to external apps and executing bot actions over one WebSocket connection.
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 * **Lead Developer at:** [Cored, Inc.](https://github.com/cored-inc)
 * **Portfolio:** [thelooped.tech](https://thelooped.tech)
 * **Email:** [cored.developments@gmail.com](mailto:cored.developments@gmail.com)
