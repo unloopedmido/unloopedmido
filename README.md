@@ -24,5 +24,4 @@ Discord-first bridge for streaming bot events to external apps and executing bot
 
 ### Connect With Me
 * **Lead Developer at:** [Cored, Inc.](https://github.com/cored-inc)
-* **Portfolio:** [thelooped.tech](https://thelooped.tech)
 * **Email:** [cored.developments@gmail.com](mailto:cored.developments@gmail.com)
